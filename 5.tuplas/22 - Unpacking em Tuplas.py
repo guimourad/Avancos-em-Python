@@ -25,4 +25,6 @@ for item in enumerate(vendas):
     print(i)
     print(venda)
     print(item)
-#nesse print, ele cria uma tupla com o indice e o valor desse indice, que é o mesma coisa que o unpacking faz
+#nesse print, ele cria uma tupla com o indice e o valor desse indice na lista, que é o mesma coisa que o unpacking faz
+
+
